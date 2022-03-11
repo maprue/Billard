@@ -1,5 +1,5 @@
 # Travail pratique - billard
-Travail pratique complété dans le cadre du cours d'infographie 
+Travail pratique complété dans le cadre du cours d'infographie.
 
 Ce travail :
 * Implémente les ombrages de Gouraud, Phong et Blinn-Phong à des boules de billard. 
