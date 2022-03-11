@@ -12,4 +12,4 @@ Pour visionner les tests : https://rawcdn.githack.com/maprue/Billard/dd40bd9ad14
 * Le bouton gauche de la souris vous permet d’appliquer une impulsion à la boule de billard choisi.
 * Le bouton droit de la souris vous permet de bouger la boule de billard choisi. 
 * Maintenir le bouton gauche/droite de la souris pour bouger la caméra.
-* Le bouton space pour démarrer la simulation physique dans la scene test (Test.html).
+* La barre d'espace pour démarrer la simulation physique dans la scene test (Test.html).
