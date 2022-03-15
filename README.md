@@ -1,4 +1,4 @@
-# Practical work - Billard
+# Practical Work - Billard
 Practical work completed as part of computer graphics course.
 
 This project:
