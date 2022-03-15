@@ -1,19 +1,19 @@
-# Travail pratique - billard
-Travail pratique complété dans le cadre du cours d'infographie.
+# Practical work - Billard
+Practical work completed as part of computer graphics course.
 
-Ce travail :
-* Implémente les ombrages de Gouraud, Phong et Blinn-Phong à des boules de billard. 
-* Implémente les textures des boules de billard.
-* Implémente le mouvement linéaire et la rotation des boules de billard.
-* Implémente la détection de collision entre deux boules de billard et la collision d’une boule de billard sur
-un segment de mur.
+This project:
+* Implements Gouraud, Phong, and Blinn-Phong shading to billiard balls.
+* Implements billiard ball textures.
+* Implements linear motion and rotation of billiard balls.
+* Implements collision detection between two billiard balls and the collision of a billiard ball on
+a segment of wall.
 
-## Démo
-Pour jouer: https://rawcdn.githack.com/maprue/Billard/b55c02545cdf34fda72fe45b169227fcf631ebb3/TP3.html
+## Demo
+To play: https://rawcdn.githack.com/maprue/Billard/b55c02545cdf34fda72fe45b169227fcf631ebb3/TP3.html
 
-Pour visionner les tests : https://rawcdn.githack.com/maprue/Billard/dd40bd9ad14aeff516aee4f99cb583fc4381f7ae/Test.html
+To view the tests: https://rawcdn.githack.com/maprue/Billard/dd40bd9ad14aeff516aee4f99cb583fc4381f7ae/Test.html
 
-## Contrôles
+## Controls
 * Les touches de clavier R et E réinitialisent (de façon différente) la position des boules de billards.
 * Les touches de clavier WASD bougent la position de la lumière.
 * La touche de clavier Q réinitialise la position de la lumière.
