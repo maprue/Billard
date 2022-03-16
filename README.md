@@ -9,9 +9,9 @@ This project:
 a segment of wall.
 
 ## Demo
-To play: https://rawcdn.githack.com/maprue/Billard/b55c02545cdf34fda72fe45b169227fcf631ebb3/TP3.html
+To play: https://www-ens.iro.umontreal.ca/~prudhmar/Billard/TP3.html
 
-To view the test scene: https://rawcdn.githack.com/maprue/Billard/dd40bd9ad14aeff516aee4f99cb583fc4381f7ae/Test.html
+To view the test scene: https://www-ens.iro.umontreal.ca/~prudhmar/Billard/Test.html
 
 ## Controls
 * The R and E keys reset the position of the billiard balls.
